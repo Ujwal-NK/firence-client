@@ -35,3 +35,6 @@ python main.py
 - If you are setting up the server and the client on different systems, you need to set the IP address of the server in the `client.py` file
 - Need to copy the faces to the `data/faces` folder
 - Name these pictures according to their primary key (ex: Roll Number)
+
+# Working
+Login using the credentials stored on the server via the system IP address on port 8090
